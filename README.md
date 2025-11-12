@@ -5,7 +5,7 @@ Aluno: Matheus Lara
  Curso: Ciência da Computação  
  Instituição: Universidade Positivo  
 
- O sisitema foi pensado para uma lista de chamada, tendo 5 opções, cadastro, listar e buscar alunos, alem de adicionar novos nomes a  turma.
+ O sisitema foi pensado para uma lista de chamada, tendo 4 opções, cadastro, listar e buscar alunos, alem de adicionar novos nomes a  turma.
  abaixo vou elaborar uma pequena apresentação para a aula.
 
  1. Estrutura
